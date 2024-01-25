@@ -89,17 +89,22 @@ A control center for advanced users to:
 - View logs and perform system diagnostics
 - Access developer tools and configurations
 
-*Replace the placeholders below with actual image URLs to each dashboard.*
+## Screenshots
 
-![Overview Dashboard](url-to-overview-dashboard-screenshot)
-![Lighting Dashboard](url-to-lighting-dashboard-screenshot)
-![Doors and Windows Dashboard](url-to-doors-windows-dashboard-screenshot)
-![Climate Dashboard](url-to-climate-dashboard-screenshot)
-![Media Dashboard](url-to-media-dashboard-screenshot)
-![Appliances Dashboard](url-to-appliances-dashboard-screenshot)
-![Health Dashboard](url-to-health-dashboard-screenshot)
-![Vehicles Dashboard](url-to-vehicles-dashboard-screenshot)
-![Admin Dashboard](url-to-admin-dashboard-screenshot)
+Here's a visual tour of my Home Assistant dashboards:
+
+- **Main Overview**: ![Main Overview Dashboard](url-to-overview-dashboard-screenshot)
+- **Lighting Controls**: ![Lighting Dashboard](url-to-lighting-dashboard-screenshot)
+- **Security Monitoring**: ![Doors and Windows Dashboard](url-to-doors-windows-dashboard-screenshot)
+- **Climate Settings**: ![Climate Dashboard](url-to-climate-dashboard-screenshot)
+- **Media Center**: ![Media Dashboard](url-to-media-dashboard-screenshot)
+- **Appliance Management**: ![Appliances Dashboard](url-to-appliances-dashboard-screenshot)
+- **Health Tracking**: ![Health Dashboard](url-to-health-dashboard-screenshot)
+- **Vehicle Stats**: ![Vehicles Dashboard](url-to-vehicles-dashboard-screenshot)
+- **Admin Tools**: ![Admin Dashboard](url-to-admin-dashboard-screenshot)
+
+Be sure to replace the URL placeholders with the actual
+
 
 ## Setup Instructions
 To implement my configurations in your Home Assistant Yellow:
